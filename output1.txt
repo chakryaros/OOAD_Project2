@@ -1,0 +1,56 @@
+*******Time to Open the Zoo!*******
+
+
+
+***Zookeeper starts to wake up all the animals.***
+Denny wake up with smiley face because he/she slept well.
+Cassie wakes up angry because she didn't get enough sleep.
+Elly slowly opens his/her eyes and stretches.
+Harry slowly opens his/her eyes and stretches.
+Leon slowly opens his/her eyes and stretches.
+Warrengets up slowly and stretches.
+
+
+***Disply Type of Animal Name!***
+Denny is Dog.
+Cassie is Cat.
+Elly is Elephant.
+Harry is Hippo.
+Leon is Lion.
+Warren is Wolf.
+
+
+***Time to Call Animals***
+Whinn... Because Denny is sick!
+Meow Meow!
+Heah Heah!
+Wheez WheeZ!
+Roar Roar!
+Hoooowwwllll!
+
+
+***Time to Feed Animals***
+Denny eats the steak in a hurry!
+Cassie eats the fish in a hurry!
+Elly eats the banana in a hurry!
+Harry eats the banana in a hurry!
+Leon eats the fish in a hurry!
+Warren eats the steak in a hurry!
+
+
+***Time for Animals to Roam***
+Denny roams his/her area.
+Cassie roams a little and stopped.
+Elly is lazy and refuses to roam.
+Harry roams a little and stopped.
+Leon lazy and refuses to roam.
+Warren roams his/her area.
+
+
+***Time for Closing! What a happy day! Zookeeper closes the doors and turns off the lights.***
+Denny lies down but hasn't fall asleep yet.
+Cassie refuses to go to sleep and plays in the dark.
+Elly lies down but hasn't fall asleep yet.
+Harry refuses to go to sleep and plays in the dark.
+Leon lies down but hasn't fall asleep yet.
+Warren falls asleep
