@@ -3,8 +3,8 @@
 
 
 ***Zookeeper starts to wake up all the animals.***
-Denny wake up with smiley face because he/she slept well.
-Cassie wakes up angry because she didn't get enough sleep.
+Denny still fall asleep
+Cassie wakes up crying because she had a nightmare.
 Elly slowly opens his/her eyes and stretches.
 Harry slowly opens his/her eyes and stretches.
 Leon slowly opens his/her eyes and stretches.
@@ -21,7 +21,7 @@ Warren is Wolf.
 
 
 ***Time to Call Animals***
-Whinn... Because Denny is sick!
+Barkkkkkkk! Because Denny is very hungry!
 Meow Meow!
 Heah Heah!
 Wheez WheeZ!
@@ -39,18 +39,18 @@ Warren eats the steak in a hurry!
 
 
 ***Time for Animals to Roam***
-Denny roams his/her area.
-Cassie roams a little and stopped.
-Elly is lazy and refuses to roam.
-Harry roams a little and stopped.
+Denny roams a little and stopped.
+Cassie lazy and refuses to roam.
+Elly roams his/her area.
+Harry is lazy and refuses to roam.
 Leon lazy and refuses to roam.
-Warren roams his/her area.
+Warren roams a little and stopped.
 
 
 ***Time for Closing! What a happy day! Zookeeper closes the doors and turns off the lights.***
 Denny lies down but hasn't fall asleep yet.
-Cassie refuses to go to sleep and plays in the dark.
+Cassie lies down but hasn't fall asleep yet.
 Elly lies down but hasn't fall asleep yet.
-Harry refuses to go to sleep and plays in the dark.
+Harry lies down but hasn't fall asleep yet.
 Leon lies down but hasn't fall asleep yet.
 Warren falls asleep
