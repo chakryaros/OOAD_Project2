@@ -20,4 +20,4 @@ Run this project:
 	
     3. Zoo.ipynb is file that we rewrite code from Java to python
 
-    4. Zoo_Strategy.ipynb is file that we worked on stretegy and oberver partern.
+    4. Zoo_Strategy.ipynb is file that we worked on stretegy and oberver pattern.
